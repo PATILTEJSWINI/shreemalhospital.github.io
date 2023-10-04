@@ -1,0 +1,1501 @@
+﻿@media (min-width: 1200px) {
+    #recommends .prod {
+        margin-top: 21px;
+    }
+
+    #recommends .boxR img {
+        display: inline;
+    }
+
+    #videoinner .col-lg-2 {
+        width: 16.2%;
+        display: inline-block;
+    }
+
+    .homepage .mail input, .homepage .pass input {
+        float: left;
+        margin: 7px 10px;
+        width: 80%;
+    }
+
+    #arcNew .mail input, #arcNew .pass input {
+        float: left;
+        margin: 7px 10px;
+        width: 80%;
+    }
+
+    .homepage nav .nopad {
+        padding: 0px;
+    }
+
+    .homepage .logo {
+        margin: -45px 0 -40px;
+        z-index: 999;
+    }
+
+    .homepage .navbar-nav > li {
+        padding-bottom: 25px;
+    }
+
+    .homepage .navbar {
+        min-height: 110px;
+    }
+
+    .newM .commonT {
+        display: none !important;
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        -webkit-animation: fadeInUp 400ms;
+        animation: fadeInUp 400ms;
+    }
+
+    #portfolio .row {
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .two {
+        display: none;
+    }
+
+    .email, .podcast {
+        padding: 50px 34px;
+        color: #fff;
+        font-size: 18px;
+    }
+
+    .homepage .pod {
+        padding: 18px 34px !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .tenplus {
+        min-height: 1500px;
+    }
+
+    .nineplus {
+        min-height: 1162px;
+    }
+
+    .ten {
+        min-height: 1441px;
+    }
+
+    .eight {
+        min-height: 925px;
+    }
+
+    .nine {
+        min-height: 1006px;
+    }
+
+    #recommends .recohalf .boxR h2 {
+        font-size: 23px;
+    }
+
+    #recommends .boxR p {
+        padding: 0 10px;
+    }
+
+    #recommends .boxR img {
+        display: inline;
+    }
+
+    #recommends .prod {
+        margin-top: 21px;
+    }
+
+    #videoinner .col-lg-2 {
+        width: 16.2%;
+        display: inline-block;
+    }
+
+    #arcNew .mail input, #arcNew .pass input {
+        float: left;
+        margin: 7px 10px;
+        width: 80%;
+    }
+
+    .email, .podcast {
+        padding: 34px 21px;
+        color: #fff;
+        font-size: 18px;
+    }
+
+    #emailfriend {
+        margin: 46px 0;
+    }
+
+        #emailfriend .col-lg-12 {
+            background: #3476c0;
+            padding: 0px;
+        }
+
+    .bright {
+        border-right: 2px solid #fff;
+    }
+
+    #Bottombox h2 {
+        font-size: 23px;
+    }
+
+    #Bottombox .bor p {
+        width: 100%;
+    }
+
+    #videogallery .col-lg-2 {
+        display: inline-block;
+        width: 19%;
+    }
+
+    #threebox h2, #threebox .join h2 {
+        font-size: 22px;
+    }
+
+    #threebox .mail input, #threebox .pass input {
+        width: 73%;
+    }
+
+    #footsec .col-lg-2 {
+        display: inline-block;
+        vertical-align: top;
+        width: 19%;
+    }
+
+    #footpainM h2 {
+        margin-top: 0;
+    }
+
+    .homepage nav .nopad {
+        padding: 0px;
+    }
+
+    .homepage .logo {
+        margin: -17px 0 -18px;
+        z-index: 999;
+    }
+
+    .homepage .navbar-nav > li {
+        padding-bottom: 0px;
+    }
+
+    .homepage .navbar {
+        min-height: 65px;
+        padding: 0;
+    }
+
+    .homepage .navbar-inverse .navbar-nav > li > a {
+        padding: 14px 3px;
+    }
+
+    .homepage .navbar-nav {
+        margin-top: 7px;
+    }
+
+    .newM .commonT {
+        display: none !important;
+    }
+
+    .two {
+        display: none;
+    }
+
+    .innerpage .navbar-inverse .navbar-nav > li > a {
+        padding: 19px 4px;
+    }
+
+    .email h3, .podcast h3 {
+        font-size: 37px;
+    }
+
+    .mail input, .pass input {
+        width: 70%;
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        -webkit-animation: fadeInUp 400ms;
+        animation: fadeInUp 400ms;
+    }
+
+    .navbar-nav > li {
+        margin-left: 10px;
+    }
+
+    .navbar-collapse {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .recent-work-wrap .recent-work-inner h3 a {
+        font-size: 20px;
+    }
+
+    .recent-work-wrap .overlay {
+        padding: 15px;
+    }
+
+    .services-wrap {
+        padding: 40px 10px 40px 30px;
+    }
+
+    .feature-wrap h2, .single-services h2 {
+        font-size: 18px;
+    }
+
+    .feature-wrap h3, .single-services h3 {
+        font-size: 14px;
+    }
+
+    .tab-wrap .media .parrent.pull-left {
+        clear: both;
+        width: 100%;
+    }
+
+    .tab-wrap .media .parrent.media-body {
+        clear: both;
+    }
+
+    #portfolio .row {
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .recent-work-wrap .overlay .preview {
+        line-height: inherit;
+    }
+
+    .team-bar .first-arrow {
+        width: 21%;
+    }
+
+    .team-bar .second-arrow {
+        width: 20%;
+    }
+
+    .team-bar .third-arrow {
+        width: 21%;
+    }
+
+    .team-bar .fourth-arrow {
+        width: 20%;
+    }
+
+    ul.social_icons li {
+        margin-right: 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .tenplus {
+        min-height: 1900px;
+    }
+
+    .homepage #bottom ul li a {
+        font-size: 18px;
+    }
+
+    .nineplus {
+        min-height: 1390px;
+    }
+
+    .six {
+        min-height: 700px;
+    }
+
+    .ten {
+        min-height: 1780px;
+    }
+
+    .nine {
+        min-height: 1255px;
+    }
+
+    .eight {
+        min-height: 1081px;
+    }
+
+    .rocoreview img {
+        margin-bottom: 25px;
+    }
+
+    .rocoreview {
+        line-height: 30px;
+    }
+
+    #recommends .recohalf .boxR h2 {
+        font-size: 23px;
+    }
+
+    #recommends .boxR p {
+        padding: 0 10px;
+    }
+
+    #recommends .boxR img {
+        display: inline;
+    }
+
+    #recommends .prod {
+        margin-top: 21px;
+    }
+
+    #recommends .recohalf .boxR {
+        width: 98%;
+        margin-bottom: 15px;
+    }
+
+    #videoinner .philip {
+        font-size: 16px;
+    }
+
+    #videoinner .col-lg-2 {
+        width: 16.2%;
+        display: inline-block;
+        margin: 25px 0 0;
+    }
+
+    #arcNew .mail input, #arcNew .pass input {
+        float: left;
+        margin: 7px 10px;
+        width: 74%;
+    }
+
+    #aboutwo .found, #aboutwo .charity {
+        padding: 14% 4%;
+    }
+
+    #Bottombox h2 {
+        font-size: 18px;
+    }
+
+    #Bottombox .bor {
+        padding: 25px 13px;
+    }
+
+        #Bottombox .bor p {
+            width: 100%;
+            font-size: 16px;
+        }
+
+    #videogallery .col-lg-2 {
+        display: inline-block;
+        width: 19%;
+    }
+
+    #videogallery .cust {
+        line-height: 26px;
+    }
+
+    #videogallery .col-sm-7 iframe {
+        height: 310px;
+    }
+
+    #videoinner .col-sm-6 iframe {
+        height: 310px;
+    }
+
+    #threebox h2 {
+        font-size: 18px;
+    }
+
+    #threebox .join h2 {
+        font-size: 18px;
+        margin: 13px 0 0;
+    }
+
+    #threebox .mail input, #threebox .pass input {
+        width: 73%;
+    }
+
+    #threebox .bor img {
+        max-width: 100%;
+        display: inline-block;
+    }
+
+    #threebox .bor {
+        padding: 25px 13px;
+    }
+
+    #threebox .col-sm-4 {
+        padding: 0 7px;
+    }
+
+    #secure {
+        text-align: center;
+    }
+
+        #secure img {
+            display: inline-block;
+            margin-top: 20px;
+        }
+
+    #footsec .col-lg-2 {
+        display: inline-block;
+        vertical-align: top;
+        width: 19%;
+    }
+
+    #footpainM h2 {
+        margin-top: 0;
+    }
+
+    .homepage .navbar-inverse .navbar-nav > li > a {
+        padding: 19px 6px;
+    }
+
+    .homepage .navbar-brand {
+        float: none;
+    }
+
+        .homepage .navbar-brand img {
+            margin: 0px auto;
+        }
+
+    .homepage .navbar-nav > li {
+        padding: 0px;
+    }
+
+    .newM .commonT {
+        display: none !important;
+    }
+
+    .email, .podcast {
+        padding: 34px 21px;
+        color: #fff;
+        font-size: 18px;
+    }
+
+    .one {
+        display: none;
+    }
+
+    .two {
+        display: block;
+        margin: 0 !important;
+    }
+
+    .email h3, .podcast h3 {
+        font-size: 24px;
+        margin: 0 0 5px;
+    }
+
+    .wel h3 {
+        font-size: 37px;
+    }
+
+    .wel {
+        line-height: 28px;
+    }
+
+    .mail input, .pass input {
+        width: 65%;
+    }
+
+    #bottom .widget {
+        margin-bottom: 21px;
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        -webkit-animation: fadeInUp 400ms;
+        animation: fadeInUp 400ms;
+    }
+
+    .navbar-collapse {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .navbar-nav > li {
+        margin-left: 0;
+    }
+
+    #main-slider .carousel h1 {
+        font-size: 25px;
+    }
+
+    #main-slider .carousel span {
+        font-size: 25px;
+    }
+
+    #main-slider .carousel h2 {
+        font-size: 20px;
+    }
+
+    .tab-wrap .media .parrent.pull-left, .media.accordion-inner .pull-left {
+        clear: both;
+        width: 100%;
+    }
+
+    .tab-wrap .media .parrent.media-body, .media.accordion-inner .media-body {
+        clear: both;
+    }
+
+    .services-wrap {
+        padding: 40px 0 40px 30px;
+    }
+
+    .recent-work-wrap .overlay {
+        padding: 15px;
+    }
+
+    .recent-work-wrap .recent-work-inner h3 a {
+        font-size: 20px;
+    }
+
+    .sinlge-skill {
+        width: 150px;
+        height: 150px;
+    }
+
+        .sinlge-skill p em {
+            font-size: 25px;
+        }
+
+        .sinlge-skill p {
+            font-size: 16px;
+        }
+
+    .team-bar .first-one-arrow {
+        width: 2%;
+    }
+
+    .team-bar .first-arrow {
+        width: 18%;
+    }
+
+    .team-bar .second-arrow {
+        width: 24%;
+    }
+
+    .team-bar .third-arrow {
+        width: 15%;
+    }
+
+    .team-bar .fourth-arrow {
+        width: 20%;
+    }
+
+    .blog .blog-item .entry-meta > span a {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 767px) {
+    .relbox {
+        margin: 0 4px 16px;
+    }
+
+    .modal-dialog {
+        margin: 10% 7% !important;
+        width: 86%;
+    }
+
+    .socialM li span {
+        display: none;
+    }
+
+    .socialM {
+        margin: 0 auto 21px;
+        width: 71%;
+        text-align: center;
+    }
+
+        .socialM ul li {
+            padding: 13px !important;
+            width: auto;
+        }
+
+    .vidsub .col-lg-12 {
+        padding: 0px;
+    }
+
+    .rocoreview img {
+        margin-bottom: 25px;
+    }
+
+    .rocoreview {
+        line-height: 30px;
+    }
+
+    #recommends .recohalf .boxR h2 {
+        font-size: 23px;
+    }
+
+    #recommends .boxR p {
+        padding: 0 10px;
+    }
+
+    #recommends .boxR img {
+        display: inline;
+    }
+
+    #recommends .prod {
+        margin-top: 21px;
+    }
+
+    #recommends .recohalf .boxR {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+
+        #recommends .recohalf .boxR h2 {
+            min-height: 100px;
+        }
+
+    .recohalf, .rocoreview {
+        margin: 25px 0;
+    }
+
+    #videoinner .vidsub {
+        text-align: center;
+    }
+
+    .vidsub .col-lg-6.col-md-6.col-sm-6 img {
+        margin: 25px auto;
+    }
+
+    #videoinner .col-lg-2 {
+        width: 32%;
+        display: inline-block;
+        margin: 0 0 20px;
+    }
+
+    #videoinner .philip {
+        line-height: 30px;
+        font-size: 24px;
+    }
+
+    .homepage .mail input, .homepage .pass input {
+        float: left;
+        margin: 7px 10px;
+        width: 75%;
+    }
+
+    #arcNew .mail input, #arcNew .pass input {
+        float: left;
+        margin: 7px 10px;
+        width: 75%;
+    }
+
+    #arcNew .field {
+        margin: 34px 0;
+    }
+
+    #arcNew .arcM {
+        margin-top: 0;
+    }
+
+    #arcNew .featurebg {
+        display: none;
+    }
+
+    #arcNew .commonT {
+        margin: 25px 15px 10px;
+    }
+
+    .email, .podcast {
+        padding: 34px 21px;
+        color: #fff;
+        font-size: 18px;
+    }
+
+    #emailfriend {
+        margin: 25px 15px;
+    }
+
+        #emailfriend .col-lg-12 .col-sm-6 {
+            border-bottom: 10px #fff solid;
+        }
+
+    .bright {
+        border: 0;
+    }
+
+    #secureinner {
+        text-align: center;
+    }
+
+        #secureinner img {
+            display: inline;
+        }
+
+    .plainbg h2 img {
+        display: none;
+    }
+
+    #recommends .plainbg h2 {
+        padding: 19px 0;
+    }
+
+    .lightb, .darkb {
+        width: 96%;
+        margin: 25px 2%;
+        padding: 2%;
+        min-height: auto;
+    }
+
+    .lightA, .bottomA, .darkA {
+        display: none;
+    }
+
+    #archtop h1 {
+        margin-top: 25px;
+        font-size: 30px;
+    }
+
+    #archtop h2 {
+        font-size: 25px;
+    }
+
+    .about1 {
+        margin: 28px -15px;
+    }
+
+        .about1 img {
+            margin-bottom: 19px;
+        }
+
+    .abouts h3 {
+        line-height: 37px;
+    }
+
+    .abouts {
+        margin: 75px 0 7px;
+    }
+
+    #aboutwo .found, #aboutwo .charity {
+        padding: 14% 18%;
+        margin-bottom: 25px;
+    }
+
+    #Bottombox .bor p {
+        width: 100%;
+    }
+
+    #Bottombox .col-lg-4.col-md-4.col-sm-4 {
+        float: none;
+        margin: 0 auto 21px;
+        width: 70%;
+    }
+
+    #videogallery .col-lg-2 {
+        display: inline-block;
+        width: 19%;
+    }
+
+    #videogallery .cust {
+        line-height: 26px;
+        margin: 16px 0 0;
+    }
+
+    #videogallery .col-lg-7 {
+        text-align: center;
+    }
+
+        #videogallery .col-lg-7 img {
+            display: inline-block;
+        }
+
+    #threebox .col-lg-4.col-md-4.col-sm-4 {
+        float: none;
+        margin: 0 auto 21px;
+        width: 70%;
+    }
+
+    #secure {
+        text-align: center;
+    }
+
+        #secure img {
+            display: inline-block;
+            margin-top: 20px;
+        }
+
+    #footsec .col-lg-2 {
+        display: inline-block;
+        vertical-align: top;
+        width: 30%;
+    }
+
+    #footpainM {
+        margin-bottom: 37px;
+    }
+
+        #footpainM h2 {
+            margin: 0px;
+        }
+
+    .homepage .logo {
+        margin: -22px 0 -23px;
+        z-index: 999;
+        width: 287px;
+    }
+
+    .homepage .navbar-nav > li {
+        padding-bottom: 0px;
+    }
+
+    .homepage .navbar {
+        min-height: 65px;
+        padding: 0;
+    }
+
+    .homepage .navbar-inverse .navbar-nav > li > a {
+        padding: 14px 4px;
+    }
+
+    .homepage .navbar-nav {
+        margin-top: 7px;
+    }
+
+    .homepage .navbar-toggle {
+        margin: 23px 0;
+    }
+
+    .homepage .navbar-inverse .navbar-nav > li > a {
+        width: 100%;
+        padding: 7px 28px;
+        margin-bottom: 2px;
+        color: #fff;
+        line-height: normal;
+    }
+
+        .homepage .navbar-inverse .navbar-nav > li > a:hover {
+            background: #0d54a3;
+        }
+
+    .homepage .navbar-collapse {
+        width: 100%;
+        padding: 25px 0;
+        overflow-x: hidden;
+    }
+
+    .two {
+        display: none;
+    }
+
+    .newM .commonT {
+        display: block !important;
+    }
+
+    #latestnNew .commonT {
+        display: none;
+    }
+
+    .podcast iframe {
+        height: 300px !important;
+    }
+
+    .top-bar-inner {
+        display: none;
+    }
+
+    .inner ul {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .innerpage .navbar-inverse .navbar-nav > li > a {
+        width: 100%;
+        padding: 7px 19px 0;
+        margin-bottom: 2px;
+        background: #555;
+        color: #fff;
+        line-height: normal;
+    }
+
+        .innerpage .navbar-inverse .navbar-nav > li > a:hover {
+            background: #0094d1;
+        }
+
+    .innerpage .navbar-collapse {
+        width: 100%;
+    }
+
+    .inner .col-sm-9.col-md-9.col-lg-9, .inner .navbar-collapse.navbar-right.in, .inner .navbar-header.logo.col-xs-9.col-sm-3.col-md-3.col-lg-3 {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .newM {
+        width: 67%;
+        border: none;
+    }
+
+        .newM .bor {
+            border: #183a61 solid 1px !important;
+            margin: 0 0 25px;
+        }
+
+        .newM .newstitle {
+            text-align: center;
+            font-size: 25px;
+            color: #fff;
+            padding: 19px 0;
+        }
+
+    .wel {
+        padding: 15px;
+    }
+
+    .read {
+        float: none;
+        margin: 13px 0;
+        display: inline-block;
+    }
+
+    .email h3, .podcast h3 {
+        font-size: 34px;
+    }
+
+    .newM .nopad {
+        border: none;
+        padding: 15px 15px;
+        min-height: auto;
+    }
+
+        .newM .nopad img {
+            margin: 0px auto !important;
+        }
+
+    .field {
+        margin: 28px 0;
+    }
+
+    .newM .nopad:last-child img {
+        margin: 15px auto !important;
+    }
+
+    #bottom .widget {
+        margin-bottom: 21px;
+    }
+
+    .container > .navbar-header, .container > .navbar-collapse {
+        margin-left: 0;
+    }
+
+    .top-number {
+        font-size: 14px;
+    }
+
+    input.search-form:hover {
+        width: 120px;
+    }
+
+    .navbar-nav > li {
+        padding-bottom: 0;
+    }
+
+    #main-slider .carousel h1 {
+        font-size: 25px;
+    }
+
+    #main-slider .carousel span {
+        font-size: 25px;
+    }
+
+    #main-slider .carousel h2 {
+        font-size: 16px;
+    }
+
+    .feature-wrap h2, .single-services h2 {
+        font-size: 18px;
+    }
+
+    .feature-wrap h3, .single-services h3 {
+        font-size: 14px;
+    }
+
+    .media.accordion-inner .pull-left, .media.accordion-inner .media-body {
+        clear: both;
+    }
+
+    .accordion-inner h4 {
+        margin-top: 10px;
+    }
+
+    .tab-wrap .media .pull-left {
+        clear: both;
+        width: 100%;
+    }
+
+    .tab-wrap .media .media-body {
+        clear: both;
+    }
+
+    .nav-tabs > li.active > a:after {
+        display: none;
+    }
+
+    #footer .col-sm-6 {
+        text-align: center;
+    }
+
+    #footer .pull-right {
+        float: none !important;
+    }
+
+    .sinlge-skill {
+        margin: 0 auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .team .single-profile-top, .team .single-profile-bottom {
+        margin-bottom: 30px;
+    }
+
+    .clients-area {
+        padding: 60px 0;
+    }
+
+        .clients-area h1 {
+            font-size: 25px;
+        }
+
+    .portfolio-item, #recent-works .col-xs-12.col-sm-4.col-md-3 {
+        padding: 0 15px;
+    }
+
+    ul.social_icons li {
+        margin-right: 0;
+    }
+
+    .blog .blog-item .entry-meta {
+        margin-bottom: 20px;
+    }
+
+    .blog .blog-item .blog-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .post_reply_comments {
+        padding-left: 20px;
+    }
+}
+
+
+
+
+@media (max-width: 568px) {
+    .discussionM .col-sm-12, .discussionM .col-lg-12 {
+        padding: 0px;
+    }
+
+    .socialM {
+        margin: 0 auto 21px;
+        width: 82%;
+        text-align: center;
+    }
+
+    .recohalf {
+        text-align: center;
+        margin: 0px auto 21px;
+    }
+
+    .rocoreview {
+        text-align: left;
+        margin: 0px auto 21px;
+    }
+
+        .rocoreview img {
+            margin: 0 0 0 12px;
+        }
+
+    #recommends .recohalf .boxR {
+        width: 70%;
+        margin: 21px auto 0;
+    }
+
+    #aboutwo {
+        padding: 0 15px;
+        margin-top: 34px;
+    }
+
+    .abouts {
+        margin-top: 16px;
+    }
+
+    #Bottombox .col-lg-4.col-md-4.col-sm-4 {
+        float: none;
+        margin: 0 auto 21px;
+        width: 80%;
+    }
+
+    #videogallery .col-lg-2 {
+        display: inline-block;
+        width: 30%;
+    }
+
+    #videogallery .modal iframe {
+        height: 270px;
+    }
+
+    #videogallery .col-sm-7 iframe {
+        height: 310px;
+    }
+
+    #videoinner .col-sm-6 iframe {
+        height: 310px;
+    }
+
+    #videoinner .modal iframe {
+        height: 270px;
+    }
+
+    #threebox {
+        margin: 37px 0;
+    }
+
+        #threebox .col-lg-4.col-md-4.col-sm-4 {
+            width: 80%;
+        }
+
+    #secureinner h2 {
+        font-size: 29px;
+    }
+
+    #footsec {
+        margin-bottom: 46px;
+    }
+
+        #footsec .col-lg-2 {
+            width: 46%;
+        }
+
+    .social-share {
+        border: none;
+        text-align: center;
+    }
+
+    .podcast {
+        padding: 25px 16px;
+        color: #fff;
+        font-size: 18px;
+    }
+
+        .podcast iframe {
+            height: 300px !important;
+        }
+
+    .newM {
+        width: 90%;
+    }
+
+    .featurebg h2 {
+        font-size: 30pt;
+    }
+
+    @media (max-width: 480px) {
+        .discussionM h2 {
+            font-size: 25px;
+        }
+
+        .socialM {
+            width: 96%;
+        }
+
+            .socialM ul li {
+                padding: 10px 7px !important;
+            }
+
+        #recommends .buynow {
+            margin: 0px;
+        }
+
+        #recommends .recohalf .boxR {
+            width: 90%;
+        }
+
+        #recommends .plainbg h2 {
+            font-size: 37px;
+        }
+
+        #videoinner .col-lg-2 {
+            width: 48%;
+            display: inline-block;
+            margin: 0 0 20px;
+        }
+
+        #videoinner .philip {
+            font-size: 19px;
+        }
+
+        #arcNew .arcM {
+            padding: 0px;
+        }
+
+        #secureinner h2 {
+            font-size: 25px;
+            line-height: normal;
+        }
+
+        #secureinner {
+            font-size: 21px;
+        }
+
+        .lightb h2, .darkb h2 {
+            margin: 21px 7px;
+            font-size: 28px;
+        }
+
+        #Bottombox .col-lg-4.col-md-4.col-sm-4 {
+            float: none;
+            margin: 0 auto 21px;
+            width: 90%;
+            padding: 0px;
+        }
+
+        #videogallery .col-lg-12 {
+            text-align: center;
+        }
+
+        #videogallery .img-responsive {
+            display: inline-block;
+        }
+
+        #videogallery .col-lg-2 {
+            display: inline-block;
+            width: 46%;
+        }
+
+        #threebox .col-lg-4.col-md-4.col-sm-4 {
+            width: 90%;
+        }
+
+        #threebox .join h2 {
+            font-size: 26px;
+            margin: 0px;
+        }
+
+        #threebox h2 {
+            font-size: 26px;
+        }
+
+        #threebox .mail input, #threebox .pass input {
+            width: 70%;
+        }
+
+        #secure h2 {
+            font-size: 28px;
+        }
+
+        #footsec .col-lg-2 {
+            width: 100%;
+        }
+
+        .subtitle {
+            font-size: 30px;
+        }
+
+        .footsub {
+            margin: 25px 0 !important;
+        }
+
+        .homepage .logo {
+            margin: -16px 0 -25px;
+            z-index: 999;
+            width: 231px;
+        }
+
+        .homepage .navbar-toggle {
+            margin: 15px 0;
+        }
+
+        .podcast {
+            padding: 25px 0px;
+        }
+
+            .podcast iframe {
+                height: 250px !important;
+            }
+
+        .email, .podcast {
+            text-align: center;
+        }
+
+            .email img, .podcast img {
+                display: block;
+                float: none !important;
+                margin: 0 auto;
+            }
+
+            .email h3, .podcast h3 {
+                font-size: 30px;
+            }
+
+        .wel h3 {
+            font-size: 30px;
+        }
+
+        .featurebg h2 {
+            font-size: 18pt;
+        }
+
+        .mail input, .pass input {
+            width: 70%;
+        }
+    }
+
+    @media (max-width: 385px) {
+        #videogallery .modal iframe {
+            height: 181px;
+        }
+
+        #videogallery .col-sm-7 iframe {
+            height: 220px;
+        }
+
+        #videoinner .modal iframe {
+            height: 181px;
+        }
+
+        #videoinner .col-sm-6 iframe {
+            height: 220px;
+        }
+
+        .jhon, .dboxB {
+            text-align: center;
+        }
+
+        .allpad {
+            margin: 19px 7px;
+        }
+
+        .jhon img {
+            display: block !important;
+            float: none !important;
+            margin: 0 auto !important;
+        }
+
+        .maindR .dboxB img {
+            display: block !important;
+            float: none !important;
+            margin: 0 auto !important;
+        }
+
+        .socialM {
+            width: 96%;
+        }
+
+            .socialM ul li {
+                padding: 10px 2px !important;
+            }
+
+        .lightb ul li iframe, .darkb ul li iframe {
+            height: 100% !important;
+        }
+
+        #videoinner .philip h2 {
+            font-size: 28px;
+        }
+
+        #recommends .recohalf .boxR {
+            width: 100%;
+        }
+
+        .homepage .mail input, .homepage .pass input {
+            float: left;
+            margin: 7px 10px;
+            width: 68%;
+        }
+
+        #arcNew .col-lg-10 {
+            font-size: 22px;
+            padding: 20px 15px;
+        }
+
+        #arcNew .mail input, #arcNew .pass input {
+            width: 68%;
+        }
+
+        #secureinner .col-lg-12 {
+            padding: 0px;
+        }
+
+        #secureinner h2 {
+            font-size: 19px;
+        }
+
+        .email h3, .podcast h3 {
+            font-size: 25px;
+        }
+
+        .lightb .pull-left, .darkb .pull-left, .darkb .pull-right {
+            display: block;
+            float: none !important;
+        }
+
+        #aboutwo .found, #aboutwo .charity {
+            padding: 14% 4%;
+        }
+
+        #aboutwo h2 {
+            font-size: 27px;
+        }
+
+        #Bottombox h2 {
+            font-size: 24px;
+        }
+
+        #Bottombox .col-lg-4.col-md-4.col-sm-4 {
+            float: none;
+            margin: 0 auto 21px;
+            width: 100%;
+            padding: 0px;
+        }
+
+        #videogallery .col-lg-2 {
+            display: inline-block;
+            width: 100%;
+        }
+
+        #threebox .col-lg-4.col-md-4.col-sm-4 {
+            width: 100%;
+            padding: 0px;
+        }
+
+        #threebox .join h2, #threebox h2 {
+            font-size: 24px;
+        }
+
+        #secure h2 {
+            font-size: 19px;
+        }
+
+        #immediate h2 {
+            font-size: 32px;
+        }
+
+        .social {
+            font-size: 21px;
+        }
+
+        .homepage .logo {
+            margin: -16px 0 -25px;
+            z-index: 999;
+            width: 200px;
+            padding: 0px;
+        }
+
+        .homepage .navbar-toggle {
+            margin: 15px 0px 0 0;
+        }
+
+        .homepage .col-sm-12.col-md-9.col-lg-8.nopad {
+            padding: 0px;
+        }
+
+        .podcast iframe {
+            height: 200px !important;
+        }
+
+        .newM .newstitle {
+            font-size: 21px;
+        }
+    }
